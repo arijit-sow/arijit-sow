@@ -25,9 +25,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python,, React **
+- 🔭 I’m currently working on **Python**
 
-- 💬 Ask me about **Python, MS Office**
+- 💬 Ask me about **Python Coding, C, MS Office**
 
 - 📫 Feel free to reach me out **arijit.sow@gmail.com**
 
