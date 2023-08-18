@@ -60,7 +60,8 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=arijit-sow&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=arijit-sow&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)-->
+[![](https://visitcount.itsvg.in/api?id=arijit-sow&label=Profile%20Views&color=8&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
   
 </div>
