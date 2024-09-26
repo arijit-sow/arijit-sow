@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python**
 
-- 💬 Ask me about **Python Coding, C, MS Office**
+- 💬 Ask me about **Python, C, HTML, CSS, Java Script, MS Office Tools**
 
 - 📫 Feel free to reach me out **arijit.sow@gmail.com**
 
