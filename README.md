@@ -9,11 +9,7 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 <!--h2 without bottom border-->
@@ -25,9 +21,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working with **Java**
 
-- 💬 Ask me about **Python, C, HTML, CSS, Java Script, MS Office Tools**
+- 💬 Ask me about **Java, HTML, CSS, Java Script, MS Office Tools**
 
 - 📫 Feel free to reach me out **arijit.sow@gmail.com**
 
@@ -35,7 +31,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,discord,figma,github,html,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,java,c,discord,figma,github,html,react,vscode&perline=14" />
   </a>
 </p>
 
